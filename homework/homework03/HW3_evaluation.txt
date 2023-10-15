@@ -1,0 +1,63 @@
+
+
+Evaluation of Homework Assignment #3
+CMSI 543 / SELP 657
+====================================
+
+Problem 7.1       :   1/1 pt.
+Problem 7.3       :   1/1 pt.
+Problem 7.5       :   1/1 pt.
+Problem 7.6       : 0.5/1 pt.
+Problem 7.9       :   1/1 pt.
+Problem 7.11      :   1/1 pt.
+Problem 8.1       :   1/1 pt.
+Problem 8.2       :   1/1 pt.
+Problem 8.6       :   1/1 pt.
+Problem 8.7       :   1/1 pt.
+Problem 8.13      :   1/1 pt.
+Problem 8.15      :   1/1 pt.
+Problem 8.16      : 0.9/1 pt.
+Problem 8.18      :   0/1 pt.
+Problem 8.19      :   1/1 pt.
+Problem 9.6       :   1/1 pt.
+Problem 9.8       :   1/1 pt.
+Problem 9.9       :   1/1 pt.
+Problem 9.12      :   1/1 pt.
+Problem 9.14      :   1/1 pt.
+Problem 9.17      :   1/1 pt.
+Problem 9.19      :   1/1 pt.
+Grammar           :   1/1 pt.
+
+Total possible points: 23
+Total possible score: 23 out of 23 = 100% which is an A-plus
+
+Your score: 21.4 out of 23 = 93.04% which is an A-minus
+
+A couple of comments:
+problem 7.6: The real problem with regression testing is that because you
+   are most often testing existing functionality to make sure they aren't
+   broken by what's been changed/added, you may miss other system-level
+   problems that crop up for which no tests have been written as yet.  You
+   are close, though....
+problem 8.16: The absolute best measure of Agile success is the satisfaction
+   of the customer.  "If you're happy, then I'm happy...."  Your answer is
+   good, though!  :)
+problem 8.18: ACK!! You didn't put an answer for this one...
+problem 9.17: OOOO! Good example!
+
+Excellent answers, even the ones with comments.
+
+Great job on this final assignment!
+
+====================================
+Group scores so far:
+
+   homework01   : 15.00/15 = 100.00% which is  5.00 points
+   prelim design: 10.00/10 = 100.00% which is 10.00 points
+   homework02   : 25.50/27 =  94.44% which is  4.72 points
+   detail design: 10.00/10 = 100.00% which is 10.00 points
+   homework03   : 21.40/23 =  93.04% which is  4.65 points
+                                  total:  34.37 out of 35.00 = 98.20%
+                                     which is an A-plus
+
+Nice work!

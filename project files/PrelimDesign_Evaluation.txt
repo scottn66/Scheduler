@@ -1,0 +1,27 @@
+
+CMSI 543 / SYEG 557 Spring 2022
+Preliminary Design Document Evaluation
+========================================
+
+Evaluation:
+   Nice work on this assignment!  Full credit for your work here, and it
+   looks like this will be VERY useful!  I can't wait to try it out.
+
+   Just a couple of comments to note:
+
+=========
+Section 1.1:  Good description ~ clear, with specific focus.
+
+Section 1.2:  Great start on the user stories ~ these are epics, of course,
+   but should be easy to break down into snaller parts.
+
+Section 1.3:  Great diagram to describe the preliminary look and feel of the
+   project!
+
+Section 1.4:  Awesome job on the schedule and description!  Very complete and
+   detailed, and you have already flagged what you have completed.
+
+Section 1.5:  This is fine.
+
+Other General Comments:
+   Nothing to add here..... excellent work!

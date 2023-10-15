@@ -1,0 +1,58 @@
+
+Evaluation of Homework Assignment #2
+CMSI 543 / SELP 657
+====================================
+
+Problem 4.4       :   1 pt.
+Problem 4.5       :   1 pt.
+Problem 4.8       :   1 pt.
+Problem 4.9       :   1 pt.
+Problem 4.12      :   1 pt.
+Problem 4.15      :   1 pt.
+Problem 4.16      :  0.5 pt.
+Problem 4.19      :   1 pt.
+Problem 4.20      :  0.5 pt.
+Problem 5.1       :   1 pt.
+Problem 5.2       :   1 pt.
+Problem 5.3       :  0.5 pt.
+Problem 5.4       :   1 pt.
+Problem 5.8       :   1 pt.
+Problem 5 9       :   1 pt.
+Problem 5.15      :   1 pt.
+Problem 5.17      :   1 pt.
+Problem 6.3       :   1 pt.
+Problem 6.7       :   1 pt.
+Problem 6.9       :   1 pt.
+Problem 6.10      :   1 pt.
+Problem 6.13a     :   1 pt.
+Problem 6.13b     :   1 pt.
+Problem 6.14      :   1 pt.
+Problem 6.16      :   1 pt.
+Problem 6.18      :   1 pt.
+Grammar           :   1 pt.
+
+Total possible score: 27 out of 27 = 100% which is an A-plus
+
+Your score: 25.5 out of 27 = 94.44% which is an A
+
+A few comments:
+Problem 4.16: There is no official role called "requirements gatherer", but
+   technically that is one of the duties of the product owner, so partially
+   correct answer here.
+Problem 4.20: Partially correct answer here; the "responsibility" for test
+   is actually under the role of the technical lead or software architect.
+Problem 5.3: Missed the second half of the question ~ what should be done?
+   Obviously the answer is "break them down into smaller stories"...  :)
+Problem 6.16: Your answer is not wrong, but a possibly more complete way of
+   looking at it is that it involves identifying a similar or related task
+   that everyone on the team is familiar with and assigning a point value to
+   it based on the knowledge of that task.  In other words, comparing that
+   task to a 'baseline'.
+
+
+Nice work!
+
+Semester scores for the group so far are itemized in your detailed design
+feedback document evaluation.
+
+Keep up the good work!
